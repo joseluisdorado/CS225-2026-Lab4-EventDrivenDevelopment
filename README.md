@@ -1,4 +1,4 @@
-# Lab 4 - Events
+# Lab 4 - Event Driven Development
 
 ## Overview
 
